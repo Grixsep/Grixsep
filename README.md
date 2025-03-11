@@ -52,13 +52,6 @@ I'm **Paul Dewhurst**, a Mechanical Engineer and Software Developer passionate a
 
 ---
 
-### 🌌 Interactive Solar System 🌌
-
-Explore an interactive solar system visualization, courtesy of NASA:
-
-
-
----
 
 ### 🤝 Let's Connect!
 
