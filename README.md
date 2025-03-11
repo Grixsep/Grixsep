@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Paul+Dewhurst!+👋;Mechanical+Engineer+%26+Software+Developer;Creator+of+PAACS+Software&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Paul+Dewhurst!+👋;Mechanical+Engineer;Software+Developer;Computational+Physicist&center=true&size=30">
   </a>
 </h1>
 
@@ -52,24 +52,11 @@ I'm **Paul Dewhurst**, a Mechanical Engineer and Software Developer passionate a
 
 ---
 
-### 📊 GitHub Stats 📊
+### 🌌 Interactive Solar System 🌌
 
-<div align="center">
-  <img width=48% src="https://streak-stats.demolab.com/?user=Grixsep&theme=tokyonight&hide_border=true">
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=Grixsep&show_icons=true&theme=radical&hide_border=true">
-</div>
+Explore an interactive solar system visualization, courtesy of NASA:
 
----
 
-### 🎯 Featured Projects 🎯
-
-<div align="center">
-
-[![PAACS Software](https://github-readme-stats.vercel.app/api/pin/?username=Grixsep&repo=PAACS-0.0.4&theme=radical)](https://github.com/Grixsep/PAACS-0.0.4)
-
-[![Simulation & CAD Interface](https://github-readme-stats.vercel.app/api/pin/?username=Grixsep&repo=simulation-cad-interface&theme=radical)](https://github.com/Grixsep)
-
-</div>
 
 ---
 
@@ -82,5 +69,6 @@ Feel free to reach out for collaborations or just a friendly hello:
 
 ---
 
-<p align="center">Made with 💖 and ☕ by Paul Dewhurst</p>
+<p align="center">Made with ☕ by Paul Dewhurst</p>
+
 
