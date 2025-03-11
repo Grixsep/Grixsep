@@ -1,4 +1,4 @@
-```markdown
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=grixsep.paacs-software">
 
 <h1 align="center">
@@ -83,5 +83,4 @@ Feel free to reach out for collaborations or just a friendly hello:
 ---
 
 <p align="center">Made with 💖 and ☕ by Paul Dewhurst</p>
-```
 
