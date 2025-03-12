@@ -45,7 +45,6 @@ I'm **Paul Dewhurst**, a Mechanical Engineer and Software Developer passionate a
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![ANSYS](https://img.shields.io/badge/-ANSYS-black?style=flat&logo=ansys)
 ![OpenCASCADE](https://img.shields.io/badge/-OCCT-003D72?style=flat&logo=opencascade)
 ![ImGui](https://img.shields.io/badge/-ImGui-FF57A3?style=flat&logo=imgur)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
